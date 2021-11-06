@@ -1,0 +1,9 @@
+import React from 'react'
+
+export const Home = () => {
+    return (
+        <div>
+            Hola Mundo Gordo Puto
+        </div>
+    )
+}
