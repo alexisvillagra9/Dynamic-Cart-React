@@ -1,0 +1,30 @@
+.footer-body {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5rem;
+}
+
+.footer-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.footer-section-title {
+  font-weight: bold;
+  font-size: 1.1rem;
+  color: #e27072;
+}
+
+.footer-section-item {
+  display: flex;
+  gap: 0.25rem;
+  align-items: center;
+  color: #28909d;
+}
+
+.footer-section-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}

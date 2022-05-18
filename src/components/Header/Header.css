@@ -1,0 +1,18 @@
+.header-body {
+}
+
+.menu {
+  display: flex;
+  gap: 1rem;
+}
+
+.item-menu {
+  font-weight: bold;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.item-menu-active {
+  /* border-bottom: 1px solid #55bbc8;
+  border-top: 1px solid #55bbc8; */
+}
